@@ -1,0 +1,7 @@
+C:\Users\inhoa\OneDrive\Desktop\BaiTap3\Bai_tap1\Bai_tap10\bin\Debug\Bai_tap10.exe.config
+C:\Users\inhoa\OneDrive\Desktop\BaiTap3\Bai_tap1\Bai_tap10\bin\Debug\Bai_tap10.exe
+C:\Users\inhoa\OneDrive\Desktop\BaiTap3\Bai_tap1\Bai_tap10\bin\Debug\Bai_tap10.pdb
+C:\Users\inhoa\OneDrive\Desktop\BaiTap3\Bai_tap1\Bai_tap10\obj\Debug\Bai_tap10.csproj.CoreCompileInputs.cache
+C:\Users\inhoa\OneDrive\Desktop\BaiTap3\Bai_tap1\Bai_tap10\obj\Debug\Bai_tap10.exe
+C:\Users\inhoa\OneDrive\Desktop\BaiTap3\Bai_tap1\Bai_tap10\obj\Debug\Bai_tap10.pdb
+C:\Users\inhoa\OneDrive\Desktop\BaiTap3\Bai_tap1\Bai_tap10\obj\Debug\Bai_tap10.csprojAssemblyReference.cache
